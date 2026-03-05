@@ -257,5 +257,5 @@ Future extensions could include:
 
 # Author
 
-Salma Hasannejad
+Salma Hasannejad\
 Mathematics & Data Science
